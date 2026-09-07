@@ -20,14 +20,6 @@ The project demonstrates the implementation and use of:
 2. **Stack**
 3. **Queue**
 
-## Technologies
-
-- C++
-
-## Course
-
-**Data Structures**
-
 ## Project Files
 
 - `Linked List.cpp` – Linked List implementation
